@@ -16,14 +16,6 @@
 
 </div>
 
-## 💖 赞助商 (Sponsors)
-<div align="center">
-  <a href="https://serpapi.com/baidu-search-api?utm_source=github_daily_stock_analysis" target="_blank">
-    <img src="./sources/serpapi_banner_zh.png" alt="轻松抓取搜索引擎上的实时金融新闻数据 - SerpApi" height="160">
-  </a>
-</div>
-<br>
-
 
 ## ✨ 功能特性
 
@@ -256,12 +248,6 @@ daily_stock_analysis/
 - [x] 美股支持
 - [ ] 历史分析回测
 
-## 🤝 贡献
-
-欢迎提交 Issue 和 Pull Request！
-
-详见 [贡献指南](docs/CONTRIBUTING.md)
-
 ## 📄 License
 [MIT License](LICENSE) © 2026 ZhuLinsen
 
@@ -285,17 +271,6 @@ daily_stock_analysis/
 ## ⚠️ 免责声明
 
 本项目仅供学习和研究使用，不构成任何投资建议。股市有风险，投资需谨慎。作者不对使用本项目产生的任何损失负责。
-
----
-
-**如果觉得有用，请给个 ⭐ Star 支持一下！**
-
-<!-- 赞赏锚点 -->
-<a id="sponsor"></a>
-###### ☕ 请我喝杯咖啡
-- 如果觉得本项目对你有帮助且行有余力，可以请我喝杯咖啡，支持项目的持续维护与迭代；不赞赏也完全不影响使用。   
-<small>（赞赏时可备注联系方式，方便私信致谢与后续交流反馈）</small>
-- 感谢支持, 祝您股市长虹，拿主力当提款机。
 
 <div align="center">
   <img src="./sources/wechatpay.jpg" alt="WeChat Pay" width="200" style="margin-right: 20px;">
